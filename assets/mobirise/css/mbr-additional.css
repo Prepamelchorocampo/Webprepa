@@ -5493,6 +5493,29 @@ section.lazy-placeholder:after {
 .cid-rP6zNh3FDt .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rQq49RFJkV {
+  background: #ffffff;
+}
+.cid-rQq49RFJkV .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rQq49RFJkV .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rQq49RFJkV figcaption {
+  position: relative;
+}
+.cid-rQq49RFJkV figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rQq49RFJkV .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rPFnyZ5UHX {
   padding-top: 90px;
   padding-bottom: 90px;
