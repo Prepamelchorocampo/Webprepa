@@ -6659,6 +6659,26 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-s8GPkYEzPk {
+  padding-top: 75px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-s8GPkYEzPk P {
+  color: #767676;
+}
+.cid-s8GPcVSWYB {
+  background: #ffffff;
+}
+.cid-s8GPcVSWYB .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-s8GPcVSWYB .video-block {
+    width: 100% !important;
+  }
+}
 .cid-s6PwWDPW5L {
   padding-top: 60px;
   padding-bottom: 0px;
