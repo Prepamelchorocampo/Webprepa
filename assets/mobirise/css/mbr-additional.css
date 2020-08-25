@@ -6669,10 +6669,11 @@ section.lazy-placeholder:after {
 }
 .cid-s8GPcVSWYB {
   background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .cid-s8GPcVSWYB .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-s8GPcVSWYB .video-block {
