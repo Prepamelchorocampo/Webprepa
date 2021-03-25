@@ -15096,6 +15096,30 @@ section.lazy-placeholder:after {
 .cid-rP6zNh3FDt .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-ssD7q9lkdG {
+  background: #ffffff;
+}
+.cid-ssD7q9lkdG .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-ssD7q9lkdG .video-block {
+    width: 100% !important;
+  }
+}
+.cid-ssD7rfpkdi {
+  background: #ffffff;
+}
+.cid-ssD7rfpkdi .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-ssD7rfpkdi .video-block {
+    width: 100% !important;
+  }
+}
 .cid-spXkVOkYJH {
   background: #ffffff;
 }
