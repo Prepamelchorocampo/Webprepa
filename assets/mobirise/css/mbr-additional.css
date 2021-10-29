@@ -20224,49 +20224,6 @@ section.lazy-placeholder:after {
 .cid-sNgzgbSLaR P {
   color: #767676;
 }
-.cid-sNgoaP5wJK {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-sNgoaP5wJK .card-img {
-  background-color: #fff;
-}
-.cid-sNgoaP5wJK .card {
-  align-self: stretch;
-}
-.cid-sNgoaP5wJK .card-box {
-  padding: 2rem;
-  background-color: #ffffff;
-}
-.cid-sNgoaP5wJK h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-sNgoaP5wJK p {
-  text-align: left;
-}
-.cid-sNgoaP5wJK .mbr-text {
-  color: #767676;
-}
-.cid-sNgoaP5wJK .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-sNgoaP5wJK .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-@media (min-width: 992px) {
-  .cid-sNgoaP5wJK .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-    -webkit-flex: 0 0 20%;
-  }
-}
 .cid-sNgND0p6kR {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -20304,6 +20261,46 @@ section.lazy-placeholder:after {
   transition: box-shadow 0.3s;
 }
 .cid-sNgND0p6kR .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-sNgRFqbqDc {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-sNgRFqbqDc .card-box {
+  padding: 0 2rem;
+}
+.cid-sNgRFqbqDc .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-sNgRFqbqDc .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-sNgRFqbqDc h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-sNgRFqbqDc p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-sNgRFqbqDc .mbr-text {
+  color: #767676;
+}
+.cid-sNgRFqbqDc .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-sNgRFqbqDc .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
