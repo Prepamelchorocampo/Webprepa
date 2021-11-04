@@ -20638,6 +20638,20 @@ section.lazy-placeholder:after {
 .cid-sN5uZ3zXKo P {
   color: #767676;
 }
+.cid-sNPUA6CnKH {
+  background: #149dcc;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #149dcc, #ffffff);
+}
+.cid-sNPUA6CnKH .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-sNPUA6CnKH .video-block {
+    width: 100% !important;
+  }
+}
 .cid-sNh3oShZgw {
   padding-top: 90px;
   padding-bottom: 90px;
