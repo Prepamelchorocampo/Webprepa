@@ -19557,6 +19557,21 @@ section.lazy-placeholder:after {
 .cid-rP6zNh3FDt .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-sOdozzAZS3 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #0f7699, #ff7f9f);
+}
+@media (min-width: 992px) {
+  .cid-sOdozzAZS3 .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sOdozzAZS3 .mbr-figure {
+    padding-top: 3rem;
+  }
+}
 .cid-s6VumFJOub {
   padding-top: 120px;
   padding-bottom: 75px;
